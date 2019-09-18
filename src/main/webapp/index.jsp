@@ -18,10 +18,13 @@
 		누르면 HelloServlet를 호출합니다.</a>
 	<br />
 	<br />
-	<a href='/helloweb/table.jsp?c=20&r=30'>테이블보기</a>
+	<a href='/helloweb/table.jsp?c=20&r=30'>테이블보기(JSP)</a>
 	<br />
 	<br />
-	<a href='/helloweb/table?c=20&r=30'>테이블보기2</a>
+	<a href='/helloweb/table?c=20&r=30'>테이블보기(servlet)</a>
+	<br />
+	<br />
+	<a href='/helloweb/form.jsp'>폼 테스트</a>
 
 
 </body>
